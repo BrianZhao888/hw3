@@ -20,4 +20,4 @@ function draw() {
   h is the height which the grass will randomly increase 
   
   4.What does the -10 do ino the second and furth arguments of the line function, height-10-random(h)? Why is it there?
-  It is the height which the grass will definitely increase. It is there because it will add on the height base on the height of the old grass.
+  It is the height which the grass will leave over after the lawnmover comes. It is there because it tells the height of the grass that will leave.
