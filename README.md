@@ -14,7 +14,7 @@ function draw() {
     rect(0, 0, width, height-15);
     h = 10;
   }
-  The lawnmover comes by after the 1000th grass grows.
+  The lawnmover comes by randomly.
   
   3.What's the point of the h variable?
   h is the height which the grass will randomly increase 
